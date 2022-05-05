@@ -1,0 +1,19 @@
+h3 {
+    width: 1493px;
+}
+
+#instructionsbutton {
+    float: right;
+    border: 1px solid white;
+    margin-top: -40px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#resultheading {
+    margin-top: 400px;
+}
